@@ -5,3 +5,10 @@ STM32 기반의 실속형 러닝머신 - 2025 COSS MCU 경진대회 예선
 이 작품의 목적은 효율적인 하드웨어 설계를 통해 분산된 운동 장치의 제어를 통합하여, 합리적이고 편리한 사용자 경험을 제공하는 것이다.
 
 ‘운동에 집중하는 합리적인 경험’을 제공하며 ‘실속형 제품의 가치’ 을 높여서 경험 혁신과 사회적 임펙트를 제공하는 것에 그치지 않고, 단일 MCU 제어 시스템과 저전력 고효율 설계로 통합과 효율을 통해 더 나은 설계로 제작하는 것이 이 작품의 필요성이다.
+
+## 소스 코드
+https://github.com/Aduryz/STM32-based_Cost-Effective-Treadmill/blob/main/Core/Src/main.c
+
+---
+
+reg update coming soon
